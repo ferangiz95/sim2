@@ -1,0 +1,4 @@
+/home/ferangiz/sim2/build/CMakeFiles/sim2.dir
+/home/ferangiz/sim2/build/CMakeFiles/simulation.dir
+/home/ferangiz/sim2/build/CMakeFiles/edit_cache.dir
+/home/ferangiz/sim2/build/CMakeFiles/rebuild_cache.dir
